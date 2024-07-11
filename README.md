@@ -35,6 +35,15 @@ I believe that my strengths and values align well with the security goals of var
 <a href="https://www.coursera.org/account/accomplishments/verify/6HBPDSA7SQH9">
     <img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=coursera&logoColor=white" />
 </a>
+<a href="https://www.coursera.org/account/accomplishments/verify/YOUR_CLOUD_COMPUTING_CERTIFICATE_ID">
+    <img src="https://img.shields.io/badge/-Cloud%20Computing-FFA500?&style=for-the-badge&logo=coursera&logoColor=white" />
+</a>
+<a href="https://www.coursera.org/account/accomplishments/verify/YOUR_NODEJS_EXPRESS_CERTIFICATE_ID">
+    <img src="https://img.shields.io/badge/-Node.js%20%26%20Express-339933?&style=for-the-badge&logo=coursera&logoColor=white" />
+</a>
+<a href="https://www.coursera.org/account/accomplishments/verify/YOUR_HTML_CSS_JS_CERTIFICATE_ID">
+    <img src="https://img.shields.io/badge/-HTML%2C%20CSS%2C%20JavaScript-0095D5?&style=for-the-badge&logo=coursera&logoColor=white" />
+</a>
 <!-- Add similar <a> tags for other certifications -->
 </div>
 
