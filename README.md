@@ -10,14 +10,6 @@ I bring a strong set of technical skills to the table, including proficiency in 
 
 I believe that my strengths and values align well with the security goals of various organizations. By leveraging my technical expertise and passion for cybersecurity, I am confident in my ability to help companies safeguard their sensitive data, enhance their security protocols, and foster a safer digital environment for all users.
 
-## Skills
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-
-## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
-
 ### Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
