@@ -21,22 +21,20 @@ I believe that my strengths and values align well with the security goals of var
 ### Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
 </div>
 
 ## Certifications
 [Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]
 <div>
 <a href="https://www.coursera.org/account/accomplishments/verify/K3Z9D43QHTD2?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course">
-    <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+    <img src="https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera.s3.amazonaws.com/certificate-images/K3Z9D43QHTD2/K3Z9D43QHTD2_thumbnail.png?auto=format%2Ccompress&dpr=1&w=110&h=144" />
 </a>
 <a href="https://www.coursera.org/account/accomplishments/verify/BEFFHDBVQEL7?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course">
-    <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+    <img src="https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera.s3.amazonaws.com/certificate-images/BEFFHDBVQEL7/BEFFHDBVQEL7_thumbnail.png?auto=format%2Ccompress&dpr=1&w=110&h=144" />
 </a>
 <a href="https://www.coursera.org/account/accomplishments/verify/6HBPDSA7SQH9">
-    <img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+    <img src="https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera.s3.amazonaws.com/certificate-images/6HBPDSA7SQH9/6HBPDSA7SQH9_thumbnail.png?auto=format%2Ccompress&dpr=1&w=110&h=144" />
 </a>
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
+<!-- Add similar <a> tags for other certifications -->
 </div>
+
