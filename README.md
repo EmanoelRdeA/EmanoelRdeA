@@ -27,24 +27,16 @@ I believe that my strengths and values align well with the security goals of var
 [Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]
 <div>
 <a href="https://www.coursera.org/account/accomplishments/verify/K3Z9D43QHTD2?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course">
-    <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=coursera&logoColor=white" />
-</a>
-<a href="https://www.coursera.org/account/accomplishments/verify/BEFFHDBVQEL7?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course">
-    <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=coursera&logoColor=white" />
-</a>
-<a href="https://www.coursera.org/account/accomplishments/verify/6HBPDSA7SQH9">
-    <img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=coursera&logoColor=white" />
-</a>
-<a href="https://www.coursera.org/account/accomplishments/verify/YOUR_CLOUD_COMPUTING_CERTIFICATE_ID">
     <img src="https://img.shields.io/badge/-Cloud%20Computing-FFA500?&style=for-the-badge&logo=coursera&logoColor=white" />
 </a>
-<a href="https://www.coursera.org/account/accomplishments/verify/YOUR_NODEJS_EXPRESS_CERTIFICATE_ID">
+<a href="https://www.coursera.org/account/accomplishments/verify/BEFFHDBVQEL7?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course">
     <img src="https://img.shields.io/badge/-Node.js%20%26%20Express-339933?&style=for-the-badge&logo=coursera&logoColor=white" />
 </a>
-<a href="https://www.coursera.org/account/accomplishments/verify/YOUR_HTML_CSS_JS_CERTIFICATE_ID">
+<a href="https://www.coursera.org/account/accomplishments/verify/6HBPDSA7SQH9">
     <img src="https://img.shields.io/badge/-HTML%2C%20CSS%2C%20JavaScript-0095D5?&style=for-the-badge&logo=coursera&logoColor=white" />
 </a>
 <!-- Add similar <a> tags for other certifications -->
 </div>
+
 
 
