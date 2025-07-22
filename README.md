@@ -1,14 +1,10 @@
-Hello I am Emanoel,
+Hello, I'm Emanoel,
 
 <a href="https://www.linkedin.com/in/emanoel-aragao/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am an aspiring cybersecurity analyst with a deep commitment to protecting sensitive information and shielding individuals from malicious activities, especially in everyday interactions on social media and other online platforms.
+I'm an aspiring **Cybersecurity Analyst** with a deep commitment to protecting sensitive information and shielding users from malicious activity, especially in everyday digital interactions like social media and web applications.
 
-My primary interests lie in identifying and mitigating bugs, fixing errors, and uncovering vulnerabilities in web pages and operating systems. These challenges excite me and drive my passion for continuous learning and improvement in the cybersecurity field.
-
-I bring a strong set of technical skills to the table, including proficiency in Linux, JavaScript, log analysis, and web traffic inspection using tools like Wireshark. These skills enable me to effectively identify potential security threats, analyze and interpret data, and implement robust security measures.
-
-I believe that my strengths and values align well with the security goals of various organizations. By leveraging my technical expertise and passion for cybersecurity, I am confident in my ability to help companies safeguard their sensitive data, enhance their security protocols, and foster a safer digital environment for all users.
+Currently pursuing a degree in **Cyber Defense** at Estácio (3rd semester), I'm also developing my skills through labs, certifications, and real world challenges like **Hack The Box**.
 
 ### Network
 <div>
@@ -16,7 +12,22 @@ I believe that my strengths and values align well with the security goals of var
 </div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]
+
+- [Google Cybersecurity Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/9KW61DPVTVP0)
+- [IBM Cybersecurity Analyst Fundamentals](https://www.coursera.org/account/accomplishments/specialization/certificate/B8AF5M1S8TVT)
+
+### Projects & Labs
+
+- [HTB Writeups](https://github.com/EmanorlRdeA/htb-writeups)  
+  Solutions and walkthroughs for Hack The Box challenges - demonstrating skills in enumeration, privilege escalation, and exploitation.
+
+- [Python-loop](https://github.com/EmanorlRdeA/Python-loop)  
+  Simple Python script to block unauthorized IPs via iteration and control flow.
+
+- [LogisticsShippingRates](https://github.com/EmanorlRdeA/LogisticsShippingRates)  
+  Project calculating shipping rates with conditional logic - using Python fundamentals.
+
+
 <div>
 <a href="https://www.coursera.org/account/accomplishments/verify/K3Z9D43QHTD2?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course">
     <img src="https://img.shields.io/badge/-Cloud%20Computing-FFA500?&style=for-the-badge&logo=coursera&logoColor=white" />
