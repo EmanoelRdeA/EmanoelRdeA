@@ -6,11 +6,6 @@ I'm an aspiring **Cybersecurity Analyst** with a deep commitment to protecting s
 
 Currently pursuing a degree in **Cyber Defense** at Estácio (3rd semester), I'm also developing my skills through labs, certifications, and real world challenges like **Hack The Box**.
 
-### Network
-<div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-</div>
-
 ## Certifications
 
 - [Google Cybersecurity Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/9KW61DPVTVP0)
@@ -27,6 +22,13 @@ Currently pursuing a degree in **Cyber Defense** at Estácio (3rd semester), I'm
 - [LogisticsShippingRates](https://github.com/EmanorlRdeA/LogisticsShippingRates)  
   Project calculating shipping rates with conditional logic - using Python fundamentals.
 
+
+  ## Skills & Tools
+
+- **Security Tools**: Wireshark, Nmap, Burp Suite, Autopsy, FTK Imager
+- **Languages**: Python, Bash, JavaScript
+- **OS & Platforms**: Linux (Debian, Kali), Windows, Git/GitHub
+- **Concepts**: Digital Forensics, Networking (TCP/IP, DNS, VPN), Threat Detection, Log Analysis
 
 <div>
 <a href="https://www.coursera.org/account/accomplishments/verify/K3Z9D43QHTD2?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course">
