@@ -52,5 +52,5 @@ Currently pursuing a degree in **Cyber Defense** at Estácio (3rd semester), I'm
 - Playing chess  
 - Solving sudoku  
 - Solving a wide range of twisty puzzles – including the classic 3x3x3 Rubik’s Cube, as well as more complex ones like the 9x9x9, 11x11x11, Megaminx, and Pyraminx  
-- Listening to music  
+- Listening to music
 
