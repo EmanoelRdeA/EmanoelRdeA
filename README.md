@@ -22,7 +22,7 @@ Currently pursuing a degree in **Cyber Defense** at Estácio (3rd semester), I'm
 - [LogisticsShippingRates](https://github.com/EmanorlRdeA/LogisticsShippingRates)  
   Project calculating shipping rates with conditional logic - using Python fundamentals.
 
-- [My very first tool for bug bounty hunting](https://github.com/EmanorlRdeA/watcher)  
+- [My very first tool for bug bounty hunting](https://github.com/EmanoelRdeA/watcher)  
   A simple tool that monitors HackerOne&Bugcrowd and other sites that notifies you when new bug bounty programs are released - using Python fundamentals.  
 
 
