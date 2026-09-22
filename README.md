@@ -1,7 +1,7 @@
 Hello, I'm Emanoel,
 
 <a href="https://www.linkedin.com/in/emanoel-aragao/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://bugcrowd.com/h/m4n_1n_th3_b0x"><img src="https://shields.io" /></a>
+<a href="https://bugcrowd.com/h/m4n_1n_th3_b0x"><img src="https://img.shields.io/badge/%5B!%5BBugcrowd%5D(https%3A%2F%2Fimg.shields.io%2Fbadge%2FBugcrowd-F26822%3Fstyle%3Dfor-the-badge%26logo%3Dbugcrowd%26logoColor%3Dwhite)%5D(https%3A%2F%2Fbugcrowd.com)" /></a>
 
 
 I'm an aspiring **Cybersecurity Analyst** with a deep commitment to protecting sensitive information and shielding users from malicious activity, especially in everyday digital interactions like social media and web applications.
