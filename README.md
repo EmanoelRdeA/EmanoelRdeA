@@ -60,4 +60,4 @@ Currently pursuing a degree in **Cyber Defense** at Estácio (3rd semester), I'm
  
   ##  How to Reach Me
 
-  I'm always open to new ideas and collaborations! If you’re working on something that resonates with my interests and are looking for a collaborator, feel free to reach out at aragaoemanoel3@gmail.com or connect with me on LinkedIn - https://www.linkedin.com/in/emanoel-aragao/. I'd be happy to explore opportunities or just have a chat about coding, bug bounty or hacking.
+  I'm always open to new ideas and collaborations! If you’re working on something that resonates with my interests and are looking for a collaborator, feel free to reach out at aragaoemanoel3@gmail.com or connect with me on LinkedIn/BugCrowd - https://www.linkedin.com/in/emanoel-aragao/, https://bugcrowd.com/h/m4n_1n_th3_b0x. I'd be happy to explore opportunities or just have a chat about coding, bug bounty or hacking.
