@@ -4,7 +4,7 @@ Hello, I'm Emanoel,
 
 I'm an aspiring **Cybersecurity Analyst** with a deep commitment to protecting sensitive information and shielding users from malicious activity, especially in everyday digital interactions like social media and web applications.
 
-Currently pursuing a degree in **Cyber Defense** at Estácio (3rd semester), I'm also developing my skills through labs, certifications, and real world challenges like **Hack The Box**.
+Currently pursuing a degree in **Cyber Defense** at Estácio (5th semester), I'm also developing my skills through labs, certifications, and real world challenges like **Hack The Box**.
 
 ## Certifications
 
